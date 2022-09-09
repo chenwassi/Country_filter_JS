@@ -7,14 +7,6 @@ const countriesObject = [
     flag: "https://restcountries.eu/data/afg.svg",
     currency: "Afghan afghani",
   },
-  // {
-  //   name: "Åland Islands",
-  //   capital: "Mariehamn",
-  //   languages: ["Swedish"],
-  //   population: 28875,
-  //   flag: "https://restcountries.eu/data/ala.svg",
-  //   currency: "Euro"
-  // },
   {
     name: "Albania",
     capital: "Tirana",
@@ -2011,6 +2003,7 @@ const countriesObject = [
     currency: "Botswana pula",
   },
 ];
+// import countriesObject from './.vscode/'
 let nameAZ = true;
 let capitalAZ = false;
 let population = false;
