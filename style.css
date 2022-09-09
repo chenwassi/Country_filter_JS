@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: fantasy;
+}
+ .boxes-container{
+   margin: 10px;
+border-color: purple;
+ }
+ .box{
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+     margin:70px;
+     width: 20%;
+     height: 200px;
+     background-color: gainsboro ;
+     border-radius: 10px;
+     font-family: monospace;
+     font-size: 20px;
+ }
+ .input-container{
+     background-color:rgb(154, 242, 255);
+     width: 50%;
+     height: 200px;
+ }
